@@ -9,7 +9,7 @@ Tratamentos de dados, análises e modelos de machine learning com PySpark
 | :sparkles: Nome        | **Challenge Data Science 2**
 | :label: Tecnologias | Pyspark, Data Science, Machine Learning, Storytelling
 | :rocket: URL         | https://github.com/KaueAbbe/Challenge_Data_Science1_Alura
-| :fire: Desafio     | https://www.alura.com.br/challenges/data-science
+| :fire: Desafio     | [https://www.alura.com.br/challenges/data-science-2](https://www.alura.com.br/challenges/data-science-2?host=https://cursos.alura.com.br)
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
 
 
