@@ -1,6 +1,6 @@
 <h1 align="center"> Bem vinda(o) ao Challenge Data Science 2 😊 </h1>
 
-# Challenge Data Science 1
+# Challenge Data Science 2
 
 Tratamentos de dados, análises e modelos de machine learning com PySpark
 
