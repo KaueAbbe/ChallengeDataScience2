@@ -4,7 +4,7 @@
 
 Tratamentos de dados, análises e modelos de machine learning com PySpark
 
-| :placard: Vitrine.Dev |     |
+| :placard: Vitrine.Dev |  [Minha Vitrine](https://cursos.alura.com.br/vitrinedev/kaueabbehausen)   |
 | -------------  | --- |
 | :sparkles: Nome        | **Challenge Data Science 2**
 | :label: Tecnologias | Pyspark, Data Science, Machine Learning, Storytelling
